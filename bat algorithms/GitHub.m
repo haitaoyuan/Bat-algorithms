@@ -16,6 +16,8 @@ outputArg2 = inputArg2;
 % -------------------------------------------------------- %
 
 
+clear;
+clear global;
 
 end
 
