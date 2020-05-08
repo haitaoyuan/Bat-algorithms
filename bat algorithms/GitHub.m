@@ -8,6 +8,11 @@ clc;
 clear;
 clear global;
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> parent of 768012e... Update GitHub.m
 
 end
 
