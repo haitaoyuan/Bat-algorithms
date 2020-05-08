@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 % ======================================================== %
 % Files of the Matlab programs included in the book:       %
 % Xin-She Yang, Nature-Inspired Metaheuristic Algorithms,  %
@@ -24,3 +25,5 @@
 >>>>>>> parent of 88ff96f... Update FirstDemo.txt
 =======
 >>>>>>> parent of 88ff96f... Update FirstDemo.txt
+=======
+>>>>>>> parent of 20c7726... Update FirstDemo.txt
