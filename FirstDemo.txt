@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 % ======================================================== %
 % Files of the Matlab programs included in the book:       %
 % Xin-She Yang, Nature-Inspired Metaheuristic Algorithms,  %
@@ -11,6 +12,8 @@
 % Programmed by Xin-She Yang @Cambridge University 2010    %
 % -------------------------------------------------------- %
 % Usage: bat_algorithm([20 1000 0.5 0.5]);                 %
+=======
+>>>>>>> parent of 88ff96f... Update FirstDemo.txt
 =======
 >>>>>>> parent of 88ff96f... Update FirstDemo.txt
 =======
