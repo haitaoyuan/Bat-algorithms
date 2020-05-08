@@ -10,5 +10,7 @@ clear global;
 
 % Display help
 %  help bat_algorithm.m
+
+% Default parameters
 end
 
