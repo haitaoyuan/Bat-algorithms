@@ -20,7 +20,18 @@ N_gen=para(2);  % Number of generations
 A=para(3);      % Loudness  (constant or decreasing)
 r=para(4);      % Pulse rate (constant or decreasing)
 
-
+% This frequency range determines the scalings
+% You should change these values if necessary
+Frequency_min=0;         % Frequency minimum
+Frequency_max=0.9;         % Frequency maximum
+% Iteration parameters
+N_iter=0;       % Total number of function evaluations
+% Dimension of the search variables
+d=1000;           % Number of dimensions
+% Lower limit/bounds/ a vector
+Lb=-2*ones(1,d);
+% Upper limit/bounds/ a vector
+Ub=2*ones(1,d);
 
 end
 
