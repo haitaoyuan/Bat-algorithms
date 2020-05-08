@@ -14,7 +14,6 @@ outputArg2 = inputArg2;
 % Bat-inspired algorithm for continuous optimization (demo)%
 % Programmed by Xin-She Yang @Cambridge University 2010    %
 % -------------------------------------------------------- %
-% Usage: bat_algorithm([20 1000 0.5 0.5]);                 %
 
 
 
