@@ -8,10 +8,6 @@ clc;
 clear;
 clear global;
 
-<<<<<<< HEAD
-
-
-=======
 % Display help
 %  help bat_algorithm.m
 
@@ -19,7 +15,6 @@ clear global;
 if nargin<1
     para=[20 1000 0.5 0.5];
 end
->>>>>>> parent of 01826d7... Update GitHub.m
 
 end
 
