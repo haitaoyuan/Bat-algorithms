@@ -9,5 +9,6 @@ clear;
 clear global;
 
 % Display help
+%  help bat_algorithm.m
 end
 
