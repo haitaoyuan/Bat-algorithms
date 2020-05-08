@@ -12,5 +12,9 @@ clear global;
 %  help bat_algorithm.m
 
 % Default parameters
+if nargin<1
+    para=[20 1000 0.5 0.5];
+end
+
 end
 
