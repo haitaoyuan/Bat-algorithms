@@ -8,5 +8,6 @@ clc;
 clear;
 clear global;
 
+% Display help
 end
 
