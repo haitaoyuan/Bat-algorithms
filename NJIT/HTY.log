@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.17)  9 MAY 2020 16:06
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.4.17)  9 MAY 2020 17:14
 entering extended mode
 **HTY.tex
 (C:\Users\cityu\Documents\GitHub\Bat-algorithms\NJIT\HTY.tex
@@ -160,22 +160,22 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gread@gobject=\count98
 ))
 No file HTY.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 \AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 30.
 (C:\personal\software\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -184,9 +184,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count99
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (C:\personal\software\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -203,11 +203,11 @@ LaTeX Info: Redefining \nameref on input line 28.
 \everyMPtoPDFconversion=\toks21
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 37.
 
-Overfull \hbox (104.72377pt too wide) in paragraph at lines 35--41
+Overfull \hbox (104.72377pt too wide) in paragraph at lines 37--43
 [][] 
  []
 
@@ -217,47 +217,47 @@ Missing character: There is no ² in font cmr10!
 Missing character: There is no ï in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no ² in font cmr10!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 54.
 (C:\personal\software\CTEX\MiKTeX\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
  [1
 
 {C:/personal/software/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.
 sfd}}]
-Overfull \hbox (9.93626pt too wide) in paragraph at lines 139--140
+Overfull \hbox (9.93626pt too wide) in paragraph at lines 141--142
 \OT1/cmr/m/n/10 Da-ta Cen-ter-s, Chi-na Post-Doctoral Sci-ence Foun-da-tion, 20
 16M600912, 01/2017--04/2018, \OT1/cmr/bx/n/10 50,000
  []
 
 [2]
-Overfull \hbox (7.97057pt too wide) in paragraph at lines 175--176
+Overfull \hbox (7.97057pt too wide) in paragraph at lines 177--178
 []\OT1/cmr/bx/n/10 Haitao Yuan \OT1/cmr/m/n/10 and MengChu Zhou, ``Energy-effic
 ient and QoS-optimized Adap-tive Task Schedul-
  []
 
 [3]
-Overfull \hbox (1.27808pt too wide) in paragraph at lines 188--189
+Overfull \hbox (1.27808pt too wide) in paragraph at lines 190--191
 \OT1/cmr/m/it/10 tion Sci-ence and En-gi-neer-ing\OT1/cmr/m/n/10 , vol. 13, no.
  2, p-p. 976--985, Apr. 2016. DOI:10.1109/TASE.2015
  []
 
 
-Overfull \hbox (4.42834pt too wide) in paragraph at lines 194--195
+Overfull \hbox (4.42834pt too wide) in paragraph at lines 196--197
 \OT1/cmr/m/n/10 Cloud-s," \OT1/cmr/m/it/10 IEEE Trans-ac-tion-s on Sys-tem-s, M
 an and Cy-ber-net-ic-s: Sys-tem-s\OT1/cmr/m/n/10 , p-p. 1--10, 09/14/2019,
  []
 
 [4]
-Overfull \hbox (4.0262pt too wide) in paragraph at lines 213--214
+Overfull \hbox (4.0262pt too wide) in paragraph at lines 215--216
 []\OT1/cmr/bx/n/10 Haitao Yuan\OT1/cmr/m/n/10 , Jing Bi and MengChu Zhou, ``Pro
 fit-Maximized Task Of-fload-ing with Simulated-
  []
 
 [5]
-Overfull \hbox (0.99835pt too wide) in paragraph at lines 219--220
+Overfull \hbox (0.99835pt too wide) in paragraph at lines 221--222
 []\OT1/cmr/bx/n/10 Haitao Yuan\OT1/cmr/m/n/10 , Jing Bi and MengChu Zhou, ``Rev
 enue-sensitive Schedul-ing of Multi-application
  []
@@ -282,11 +282,11 @@ Missing character: There is no ² in font cmr10!
 Missing character: There is no ï in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no ² in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 422.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 424.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 422.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 422.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 422.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 424.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 424.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 424.
  ) 
 Here is how much of TeX's memory you used:
  4843 strings out of 495354
